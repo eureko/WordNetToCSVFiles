@@ -4,6 +4,6 @@ This project contains a single main java class helping user in serializing in di
 - synset nodes info (i.e., id,SID,type,POS,level,dimension,words,label);
 - semantic relations;
 - wordsenses nodes (i.e., id,Sid,WID,type,POS,polysemy,frequency,dimension,label);
-- Exporting semantic syntactic relations;
+- Exporting semantic syntactic relations.
 
 
