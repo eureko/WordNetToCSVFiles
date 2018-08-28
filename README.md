@@ -6,7 +6,7 @@ This project contains a single main java class helping user in serializing in di
 - wordsenses nodes (i.e., id,Sid,WID,type,POS,polysemy,frequency,dimension,label);
 - Exporting semantic syntactic relations.
 
-Author: Eng. Enrico G. Caldarola, PhD (date: February 2017)
+Author: Enrico G. Caldarola, PhD (date: February 2017)
 
 (STIIMA – Institute of Intelligent Systems and Industrial Technologies 
 for Advanced Manufacturing  National Research Council of Italy)
